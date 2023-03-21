@@ -37,14 +37,14 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Client</summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
