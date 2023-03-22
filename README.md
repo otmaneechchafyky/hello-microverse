@@ -71,7 +71,8 @@ git clone https://github.com/OTMANE-ECHCHAFYKY/hello-microverse.git
 ### Run tests
 
 To run tests, run the following command:
-For styles: npx stylelint "**/*.{css,scss}"
+
+- For styles: npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
@@ -129,6 +130,6 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENCE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
