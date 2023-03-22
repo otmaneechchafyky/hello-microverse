@@ -27,35 +27,18 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [setup-hello-microverse-project] <a name="setup-hello-microverse-project"></a>
+I just use simple html and add some styles for this project.
 
 
-
-**[setup-hello-microverse-project]** is a...
+**[setup-hello-microverse-project]** is a simple introductory project.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+HTML,CSS
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
-  </ul>
-</details>
-
+HTML,CSS
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
 - **[Github Flow Execution]**
-- **[Webpack and linters]**
+- **[Add linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,9 +46,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://otmane-echchafyky.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,89 +54,35 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-for Learning git and github.
-
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+- Visual Studio Code
+- Github
+ 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
+git clone https://github.com/OTMANE-ECHCHAFYKY/hello-microverse.git
 ### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+For styles: npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+"GitHub Pages"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -169,9 +96,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Leaderboard]**
+- [ ] **[Portfolio: setup and mobile first]**
+- [ ] **[Portfolio: finish mobile version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,9 +115,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-By supporting this project you are supporting the future
-
-If you like this project...
+If you like this project give me ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,16 +123,12 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-otmane-echchafyky Microverse and Ashnaali
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
