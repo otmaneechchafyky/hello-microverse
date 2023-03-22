@@ -1,7 +1,6 @@
 
 <a name="readme-top"></a>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -22,10 +21,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [setup-hello-microverse-project] <a name="setup-hello-microverse-project"></a>
 I just use simple html and add some styles for this project.
@@ -43,15 +39,12 @@ HTML,CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://otmane-echchafyky.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -82,7 +75,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -94,7 +86,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -102,8 +93,6 @@ You can deploy this project using:
 - [ ] **[Portfolio: finish mobile version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -113,15 +102,11 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give me ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
